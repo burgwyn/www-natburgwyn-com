@@ -6,7 +6,7 @@ h1 {font-size: 36px;}
 h2 {font-size: 24px;}
 h3 {font-size: 20px;}
 ul { list-style-type: none; overflow: hidden; }
-li { float:left; width:50%;}
+li { float:left; width:50%; padding-bottom: 12px; padding-top: 12px;}
 a {text-decoration: none;}
 img {margin:auto;border-radius: 4px;}
 .margin-top-10 { margin-top:10px; }
