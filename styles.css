@@ -1,0 +1,14 @@
+body {color:000;margin-top:100px;}
+section {background-color: #fff;margin-top:0 auto;}
+div#main {width:400px; margin: 0 auto;background-color: #fff; box-shadow: 0 1px 4px #000; border-radius: 4px; padding: 10px;}
+h1,h2,h3 {margin: 2px;}
+h1 {font-size: 36px;}
+h2 {font-size: 24px;}
+h3 {font-size: 20px;}
+ul { list-style-type: none; overflow: hidden; }
+li { float:left; width:50%;}
+a {text-decoration: none;}
+img {margin:auto;border-radius: 4px;}
+.margin-top-10 { margin-top:10px; }
+.heading {float:left;margin-right:15px;}
+.hide {display:none;}
